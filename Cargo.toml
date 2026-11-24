@@ -20,7 +20,7 @@ custom-heap = []
 custom-panic = []
 
 [dependencies]
-anchor-lang = "0.32.2"
+anchor-lang = "0.30.3"
 
 [profile.release]
 overflow-checks = true
